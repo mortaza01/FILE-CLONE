@@ -50,6 +50,7 @@
 
 - `cd FILE-CLONE`
 
-- python ARK-156.py
+
+- `python ARK-156.py`
 
 # Thank You For Your Support ❤️😘
